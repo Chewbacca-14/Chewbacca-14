@@ -9,7 +9,7 @@ I'm Flutter Mobile Application Developer from Prague. I'm ready or excited to le
 👨‍💻 Development Skils:<br/>
 
 • Flutter <br/>
-• Dart <br/>
+• Dart 3<br/>
 • Firebase <br/>
 • Flutter Google Map integrations.<br/>
 • Local database (SQLite, Hive, Shared preference).<br/>
