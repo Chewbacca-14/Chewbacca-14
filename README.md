@@ -3,7 +3,7 @@
 ✅ Flutter Developer <br/>  
 
 
-I'm Flutter Mobile Application Developer from Prague. I'm ready or excited to learn new things.<br/><br/>
+I'm Flutter Mobile and Web Application Developer from Prague. I'm ready or excited to learn new things.<br/><br/>
 
 
 👨‍💻 Development Skils:<br/>
@@ -12,14 +12,14 @@ I'm Flutter Mobile Application Developer from Prague. I'm ready or excited to le
 • Dart 3<br/>
 • Firebase <br/>
 • Flutter Google Map integrations.<br/>
-• Local database (SQLite, Hive, Shared preference).<br/>
+• Local database (SQLite, Hive, Shared preference, Get Storage).<br/>
 • BloC.<br/>
 • Provider.<br/>
-• Clean Architecture - began to study.<br/>
-• DI.<br/>
-• API integrations.<br/>
+• GetX.<br/>
+• RestAPI.<br/>
+• WebSocket.<br/>
+• GraphQl.<br/>
 • Localizations.<br/>
 • Google Play / App Store publishing.<br/>
-• Responsive and great UI integrations.<br/>
 
 
