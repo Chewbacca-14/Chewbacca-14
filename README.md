@@ -12,7 +12,7 @@ I'm Flutter Mobile and Web Application Developer from Prague. I'm ready or excit
 • Dart 3<br/>
 • Firebase <br/>
 • Flutter Google Map integrations.<br/>
-• Local database (SQLite, Hive, Shared preference, Get Storage).<br/>
+• Local database (SQLite, Hive, Shared preferences).<br/>
 • BloC.<br/>
 • Provider.<br/>
 • GetX.<br/>
