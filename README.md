@@ -1,6 +1,6 @@
 
 # 💫 Max Bulanovich - Flutter Developer
-💻 2.5+ years of experience in software development
+💻 3+ years of experience in software development
 
  - Passionate about building meaningful and impactful projects
 
